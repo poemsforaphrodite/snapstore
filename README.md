@@ -60,7 +60,3 @@ To run SnapStore locally, follow these steps:
 - [@poemsforaphrodite](https://www.github.com/poemsforaphrodite)
 
 
-
-
-
-![Visualization of the codebase](./diagram.svg)
