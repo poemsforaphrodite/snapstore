@@ -24,7 +24,7 @@ SnapStore is an e-commerce website that allows users to view items in different 
 
 ## Live Site
 
-A live version of SnapStore can be found at 
+A live version of SnapStore can be found at https://snapstore-virid.vercel.app/
 
 ## Installation and Setup
 
